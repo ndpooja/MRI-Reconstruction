@@ -6,8 +6,8 @@ Retropsective and prospective analysis (reconstruction) of low field MRI (7.8 mT
 * VLMFRI_SPARKLING_ProspectiveAnalysis.ipynb - Reconstruction of image using SPARKLING acquired data
 * VLMFRI_SPARKLING_RetrospectiveAnalysis.ipynb - Retrospective analysis of SPARKLING trajectories with full cartesian data
 
-
-In order to run Cartesian & Radial (to run SPARKLING related files you can make request to the authors of SPARKLING to access the SPARKLING related libraries).
+* To run SPARKLING related files you can make request to the authors of SPARKLING to access the SPARKLING related libraries
+* In order to run Cartesian & Radial install required packages
 
 ## Installation
 
